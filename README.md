@@ -43,7 +43,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
 
-- 🏢 I am a web developer
+- 🏢 I am web developer
 - 🏫 2024 B.Tech. graduate from ACEM Pune
 - 💻 Former web developer Intern at Txon, India
 - 🙋‍ More about me: Visit my [website](https://nikhil-hade.web.app/)
