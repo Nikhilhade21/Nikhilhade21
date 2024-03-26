@@ -41,8 +41,8 @@
 <br/>
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+is+Programming+Skills)](https://git.io/typing-svg)
 
-<h3 align="left">Skills:</h3>
 <p align="left">
 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JAVASCRIPT" /></a>
